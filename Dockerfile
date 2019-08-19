@@ -1,2 +1,2 @@
-FROM hezhitao:v1
+FROM ubuntu
 RUN touch test.txt
